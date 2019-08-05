@@ -18,6 +18,7 @@ When conducting a data science project, memory and time limitation often becomes
 
 ## Example of email sent by Python
 ![Image of elbow_email](https://github.com/louisowen6/Cloud-Python/blob/master/elbow_email.JPG)
+
 ![Image_of_pca_email](https://github.com/louisowen6/Cloud-Python/blob/master/pca_email.JPG)
 
 ### You can see the Google Colab notebook [here](https://github.com/louisowen6/Cloud-Python/blob/master/Cloud_Python.ipynb)
