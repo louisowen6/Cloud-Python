@@ -9,7 +9,12 @@ When conducting a data science project, memory and time limitation often becomes
 4. Create new Google Colaboratory file in your folder
 5. Change your runtime: Runtime -> Change runtime type -> Hardware accelerator -> GPU -> Save
 
-
+## Google Colab from Mobile Phone
+1. Open your mobile browser (Google Chrome, Safari, etc)
+2. Search *Google Colaboratory* in Google search bar
+3. Make sure your gmail account is logged in
+4. Open Google Colab and find your Google Colab file
+5. Change your runtime: Runtime -> Change runtime type -> Hardware accelerator -> GPU -> Save
 
 ### You can see the notebook [here](https://github.com/louisowen6/Cloud-Python/blob/master/Cloud_Python.ipynb)
 
