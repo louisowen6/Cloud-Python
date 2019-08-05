@@ -16,5 +16,5 @@ When conducting a data science project, memory and time limitation often becomes
 4. Open Google Colab and find your Google Colab file
 5. Change your runtime: Runtime -> Change runtime type -> Hardware accelerator -> GPU -> Save
 
-### You can see the notebook [here](https://github.com/louisowen6/Cloud-Python/blob/master/Cloud_Python.ipynb)
+### You can see the Google Colab notebook [here](https://github.com/louisowen6/Cloud-Python/blob/master/Cloud_Python.ipynb)
 
